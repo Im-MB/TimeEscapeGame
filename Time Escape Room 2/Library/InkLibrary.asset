@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc234ab28a32840f5adfb84a075bc023, type: 3}
+  m_Name: Ink Library 1.0.0
+  m_EditorClassIdentifier: 
+  inkLibrary:
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 76ad5796219d51147869e587b6d5ec70, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 0}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents:
+    - {fileID: 102900000, guid: 4e1f3ad303747624f8d0f875d52e6e40, type: 3}
+    - {fileID: 102900000, guid: d918f780ce740d34985343e67773f875, type: 3}
+    - {fileID: 102900000, guid: ee0ebfbc419cb8143b753ba7205b68de, type: 3}
+    - {fileID: 102900000, guid: 4a30b154daf7ce54a9e99e5e83cf8bd8, type: 3}
+    masterInkAssets:
+    - {fileID: 102900000, guid: 4e1f3ad303747624f8d0f875d52e6e40, type: 3}
+    - {fileID: 102900000, guid: d918f780ce740d34985343e67773f875, type: 3}
+    - {fileID: 102900000, guid: ee0ebfbc419cb8143b753ba7205b68de, type: 3}
+    - {fileID: 102900000, guid: 4a30b154daf7ce54a9e99e5e83cf8bd8, type: 3}
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 4e1f3ad303747624f8d0f875d52e6e40, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 2dd34dbf6a2e97e4fbeb711c2c2425e7, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - Globals.ink
+    includes:
+    - {fileID: 102900000, guid: 76ad5796219d51147869e587b6d5ec70, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: d918f780ce740d34985343e67773f875, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 778952cbbc2815f43bf03e16479f518d, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - Globals.ink
+    includes:
+    - {fileID: 102900000, guid: 76ad5796219d51147869e587b6d5ec70, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: ee0ebfbc419cb8143b753ba7205b68de, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 9a6b29dbdc0d3274494caf2782762c9c, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - Globals.ink
+    includes:
+    - {fileID: 102900000, guid: 76ad5796219d51147869e587b6d5ec70, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 4a30b154daf7ce54a9e99e5e83cf8bd8, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 8df142eaa80974a448a4309449a22f41, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths:
+    - Globals.ink
+    includes:
+    - {fileID: 102900000, guid: 76ad5796219d51147869e587b6d5ec70, type: 3}
+  - compileAutomatically: 0
+    inkAsset: {fileID: 102900000, guid: 1460e815e969b43b8a83a7caa8b48c27, type: 3}
+    jsonAssetDirectory: {fileID: 0}
+    jsonAsset: {fileID: 4900000, guid: 6cf48bb6d89824cc69e35b43f9a1aca6, type: 3}
+    unhandledCompileErrors: []
+    errors: []
+    warnings: []
+    todos: []
+    parents: []
+    masterInkAssets: []
+    masterInkAsset: {fileID: 0}
+    includePaths: []
+    includes: []
